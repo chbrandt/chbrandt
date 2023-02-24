@@ -25,10 +25,10 @@ jobs:
           plugin_languages: yes
           plugin_languages_ignored: linguist-vendored
           plugin_licenses: yes
-          plugin_stackoverflow: yes
-          plugin_stackoverflow_sections: answers-top,answers-recent
-          plugin_stackoverflow_user: 687896
-          plugin_topics: yes
-          plugin_topics_mode: icons
-          plugin_topics_sort: activity
+          #plugin_stackoverflow: yes
+          #plugin_stackoverflow_sections: answers-top,answers-recent
+          #plugin_stackoverflow_user: 687896
+          #plugin_topics: yes
+          #plugin_topics_mode: icons
+          #plugin_topics_sort: activity
           
