@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           
           # Plugins/Options
+          user: chbrandt
           template: classic
           plugin_topics: yes
           plugin_topics_mode: icons
