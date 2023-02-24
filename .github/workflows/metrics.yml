@@ -22,13 +22,11 @@ jobs:
           template: classic
           
           # Plugins
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_secrets: yes
-          plugin_activity: yes
-          plugin_activity_visibility: all
-          plugin_activity_skipped: chbrandt/chbrandt
+          plugin_languages: yes
           plugin_licenses: yes
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_sections: answers-top,answers-recent
+          plugin_stackoverflow_user: 687896
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_sort: activity
