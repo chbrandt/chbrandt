@@ -18,8 +18,13 @@ jobs:
           
           # Plugins/Options
           user: chbrandt
+          config_timezone: Europe/Berlin
           template: classic
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_sort: activity
+          plugin_activity: yes
+          plugin_activity_visibility: all
+          plugin_achievements: yes
+          plugin_licenses: yes
           
