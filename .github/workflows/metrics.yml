@@ -16,16 +16,19 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Plugins/Options
+          # Options
           user: chbrandt
           config_timezone: Europe/Berlin
           template: classic
+          
+          # Plugins
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_activity: yes
+          plugin_activity_visibility: all
+          plugin_licenses: yes
           plugin_topics: yes
           plugin_topics_mode: icons
           plugin_topics_sort: activity
-          plugin_activity: yes
-          plugin_activity_visibility: all
-          plugin_achievements: yes
-          plugin_licenses: yes
-          plugin_posts: yes
           
