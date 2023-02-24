@@ -23,7 +23,7 @@ jobs:
           
           # Plugins
           plugin_languages: yes
-          plugin_languages_ignored: notebook
+          plugin_languages_ignored: notebooks
           plugin_licenses: yes
           plugin_stackoverflow: yes
           plugin_stackoverflow_sections: answers-top,answers-recent
