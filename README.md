@@ -10,3 +10,5 @@ And many apps/services are packaged as Docker containers.
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
+
+> Powered by [lowlighter/metrics](https://github.com/lowlighter/metrics)
